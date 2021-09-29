@@ -133,7 +133,7 @@ header .text p,
 .five p {
     max-width: 650px;
     width: 100%;
-    margin: 10px auto 20px auto;
+    margin: 10px auto 10px auto;
 }
 
 header .buttons a,
