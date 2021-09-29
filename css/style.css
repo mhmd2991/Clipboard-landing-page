@@ -96,7 +96,7 @@ a {
 header {
     background: url(../img/bg-header-desktop.png) no-repeat;
     background-size: cover;
-    padding-top: 125px;
+    padding-top: 126px;
 }
 
 @media (max-width: 375px) {
@@ -133,7 +133,7 @@ header .text p,
 .five p {
     max-width: 650px;
     width: 100%;
-    margin: 20px auto 30px auto;
+    margin: 10px auto 20px auto;
 }
 
 header .buttons a,
