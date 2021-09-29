@@ -23,7 +23,7 @@ html {
     --darkGrayishBlue: hsl(210, 10%, 33%);
     --grayishBlue: hsl(201, 11%, 66%);
     --whiteColor: #ffffff;
-    --paddingSection: 30px;
+    --paddingSection: 50px;
 }
 
 body {
@@ -133,7 +133,7 @@ header .text p,
 .five p {
     max-width: 650px;
     width: 100%;
-    margin: 10px auto 10px auto;
+    margin: 10px auto 20px auto;
 }
 
 header .buttons a,
